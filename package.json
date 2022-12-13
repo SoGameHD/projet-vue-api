@@ -1,0 +1,28 @@
+{
+  "name": "bot_meteo",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000b\u0000o\u0000t\u0000_\u0000m\u0000e\u0000t\u0000e\u0000o\u0000\r\u0000 \u0000",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx node -r dotenv/config src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoGameHD/bot_meteo.git"
+  },
+  "author": "erwann_leducq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SoGameHD/bot_meteo/issues"
+  },
+  "homepage": "https://github.com/SoGameHD/bot_meteo#readme",
+  "dependencies": {
+    "axios": "^0.22.0",
+    "discord.js": "^13.1.0",
+    "dotenv": "^10.0.0",
+    "node": "^16.10.0",
+    "node-fetch": "^3.0.0",
+    "openweather-apis": "^4.4.2"
+  }
+}

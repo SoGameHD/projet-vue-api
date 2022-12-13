@@ -1,0 +1,47 @@
+{
+    "0":"plein Est",
+    "10":"Est",
+    "20":"Est",
+
+    "30":"Est/Nord-Est",
+    "40":"Nord-Est",
+    "50":"Nord-Est",
+    "60":"Nord/Nord-Est",
+
+    "70":"Nord",
+    "80":"Nord",
+    "90":"plein Nord",
+    "100":"Nord",
+    "110":"Nord",
+
+    "120":"Nord/Nord-Ouest",
+    "130":"Nord-Ouest",
+    "140":"Nord-Ouest",
+    "150":"Ouest/Nord-Ouest",
+
+    "160":"Ouest",
+    "170":"Ouest",
+    "180":"plein Ouest",
+    "190":"Ouest",
+    "200":"Ouest",
+
+    "210":"Ouest/Sud-Ouest",
+    "220":"Sud-Ouest",
+    "230":"Sud-Ouest",
+    "240":"Sud/Sud-Ouest",
+    
+    "250":"Sud",
+    "260":"Sud",
+    "270":"plein Sud",
+    "280":"Sud",
+    "290":"Sud",
+
+    "300":"Sud/Sud-Est",
+    "310":"Sud-Est",
+    "320":"Sud-Est",
+    "330":"Est/Sud-Est",
+
+    "340":"Est",
+    "350":"Est",
+    "360":"plein Est"
+}

@@ -1,0 +1,4 @@
+# Ignore volume
+*.env
+*.idea
+/node_modules
